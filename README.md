@@ -1,6 +1,9 @@
-# masukanpilihan
+# membuat Inputan
 
 A new Flutter project.
+
+# Dokumentasi
+![image](https://user-images.githubusercontent.com/71278382/194070531-0a87725d-7fd8-40f2-b77c-6924477cc912.png)
 
 ## Getting Started
 
